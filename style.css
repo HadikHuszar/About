@@ -65,7 +65,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .nav-item {
-  width: 100;
+  width: 100%;
 }
 
 .nav-item:last-child {
